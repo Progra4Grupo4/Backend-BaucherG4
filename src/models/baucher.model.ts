@@ -1,4 +1,4 @@
-import {Entity, model, property, hasMany, belongsTo} from '@loopback/repository';
+import {belongsTo, Entity, hasMany, model, property} from '@loopback/repository';
 import {Detallebaucher} from './detallebaucher.model';
 import {EmpleadoG4} from './empleado-g4.model';
 
