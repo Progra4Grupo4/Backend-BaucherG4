@@ -9,3 +9,8 @@ export * from './empleado-cuenta.controller';
 export * from './cuenta-empleado.controller';
 export * from './cuenta-detallebaucher.controller';
 export * from './detallebaucher-cuenta.controller';
+export * from './empleado-g-4-cuenta.controller';
+export * from './cuenta-empleado-g4.controller';
+export * from './empleado-g-4-baucher.controller';
+export * from './baucher-empleado-g4.controller';
+export * from './empleado-g4.controller';
