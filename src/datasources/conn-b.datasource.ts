@@ -4,11 +4,11 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'ConnB',
   connector: 'mongodb',
-  url: 'mongodb://mongo:WHeDFLZ9PmlL1VSf4mny@containers-us-west-114.railway.app:6243/baucher',
-  host: 'containers-us-west-114.railway.app:6243/',
+  url: 'mongodb+srv://devG4:ControlG4*@cluster0.rlgrors.mongodb.net/baucher',
+  host: 'cluster0.rlgrors.mongodb.net/',
   port: 27017,
-  user: 'MONGOHOST',
-  password: 'containers-us-west-114.railway.app',
+  user: 'devG4',
+  password: 'ControlG4*',
   database: 'baucher',
   useNewUrlParser: true
 };
